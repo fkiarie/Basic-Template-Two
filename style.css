@@ -237,6 +237,11 @@ h2{
     .footer{
         padding: 15px;
     }
-
+    .header .container{
+        flex-direction: column;
+        padding-top: 20px;
+        text-align: center;
+    }
 }
+
 
